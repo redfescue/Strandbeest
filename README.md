@@ -1,1 +1,1 @@
-Arduino-controlled Strandbeest project documents. 
+Arduino-controlled motorized Strandbeest project documents. 
